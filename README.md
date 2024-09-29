@@ -1,6 +1,12 @@
-![image](https://github.com/user-attachments/assets/402aea91-421c-4c29-927b-31c107a8648b)# SortingAlgorithmVisualizer
+# SortingAlgorithmVisualizer
 
 This is a sorting algorithm visualizer that uses pygame for visualization
+
+Implemented Features:
+
+1) Genrating a random array (pressing R) while the algorthims are not running
+2) Selecting through 4 sorting algorithms, Bubble Sort, Insertion Sort, Merge Sort, Quick Sort
+3) Reseting the array
 
 For running this you will need any IDE that can use python and the pygame library
 
